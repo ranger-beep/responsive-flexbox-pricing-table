@@ -72,6 +72,8 @@
         font-size: x-small;
         margin: 50px 0px;
       }
+       
+      }
 
        @media (min-width: 400px) and (max-width: 680px) {
         .pricing-container {
