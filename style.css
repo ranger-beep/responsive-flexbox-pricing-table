@@ -78,5 +78,6 @@
           flex-direction: column;
           flex-wrap: wrap;
           margin: 0px;
+          background-color: #000000;
         }
       }
