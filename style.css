@@ -79,10 +79,8 @@
         .pricing-container {
           flex-direction: column;
           flex-wrap: wrap;
-          background-color: black;
           width: 100%;
           max-width: 500px;
           margin: 0 auto; /* untuk tengah */
-          padding: 0 16px;
         }
       }
